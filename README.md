@@ -17,7 +17,7 @@ The purpose of this analysis is to:
 
 ## 📂 What's in the Repo
 
-- `sparkling_time_series.py` – Python script with the complete analysis and modeling pipeline
+- `sparkling_time_series.ipynb` – Python script with the complete analysis and modeling pipeline
 - `README.md` – This file
 
 > **Note:** The sales dataset (`Sparkling.csv`) is **confidential** and **not included** in this repository. For internal use, ensure the file is placed in the project root before running the script.
